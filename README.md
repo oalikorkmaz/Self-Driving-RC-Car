@@ -6,3 +6,5 @@ Lane Detection -> lanes.py
 
 
 youtube link: https://youtu.be/4ZLqJI96rJo
+
+detay: [Otonom RC Araba Bitirme.pdf]
